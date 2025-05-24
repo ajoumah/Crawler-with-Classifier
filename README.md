@@ -1,4 +1,4 @@
-# 🕸️ Web Crawler with classifier System
+# 🕸️ Web Crawler with Classifier System
 
 ## 🔍 Overview
 
